@@ -1,0 +1,8 @@
+{
+    "name": "zappa_spike"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "zappa": "0.2.0"
+  }
+}
